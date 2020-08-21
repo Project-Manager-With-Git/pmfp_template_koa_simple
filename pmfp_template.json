@@ -1,0 +1,12 @@
+{
+    "name": "koa_simple",
+    "desc": "使用koa的简单http服务",
+    "project-language": "Javascript",
+    "project-type": "server",
+    "components": {
+        "server": "server"
+    },
+    "requirement": ["koa"],
+    "requirement-dev": ["eslint"],
+    "enterpoint": "server"
+}
