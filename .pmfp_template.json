@@ -1,0 +1,8 @@
+{
+    "description": "使用koa的简单http服务",
+    "language": "js",
+    "template_type": "server",
+    "requires": ["koa"],
+    "test_requires": ["eslint"],
+    "enterpoint": "server"
+}
